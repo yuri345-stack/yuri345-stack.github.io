@@ -110,7 +110,30 @@
      grid-template-columns: 1fr;
      gap: 2rem;
  }
- 
+
+.enlaces-especiales{
+    margin-top: 1rem;
+    border-top: 2px solid #d0d0d0;
+    padding-top: 1rem;
+}
+
+.btn-habitat{
+    display: inline-block;
+    text-decoration: none;
+    background-color: var(--type-Habitats);
+    color: var(--clr-black);
+    padding: .5rem 1rem;
+    border-radius: 100vmax;
+    font-weight: 600;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, .25);
+    transition: .2s;
+}
+
+.btn-habitat:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 2rem rgba(0, 0, 0, .25);
+}
+
  @media screen and (min-width: 470px) {
      .pokemon-todos {
          grid-template-columns: 1fr 1fr;
