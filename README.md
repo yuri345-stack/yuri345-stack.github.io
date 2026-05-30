@@ -31,6 +31,11 @@
                 <li class="nav-item"><button class="btn btn-header steel" id="steel">Steel</button></li>
                 <li class="nav-item"><button class="btn btn-header fairy" id="fairy">Fairy</button></li>        
             </ul>
+                <ul class="nav-list enlaces-especiales">
+                    <li class="nav-item">
+                        <a href="https://yuri345-stack.github.io/HABITAT/"target="_blank"class="btn btn-habitat">Habitat de la Primera Generacion</a>
+                    </li>
+                </ul>
             </nav>
         </header>
         <main>
