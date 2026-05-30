@@ -40,6 +40,15 @@
         </a>
     </li>
 </ul>
+                <ul class="nav-list enlaces-especiales">
+    <li class="nav-item">
+        <a href="https://yuri345-stack.github.io/PERSONAJES/"
+           target="_blank"
+           class="btn btn-habitat">
+            Entrenadores Pokemon
+        </a>
+    </li>
+</ul>
             </nav>
         </header>
         <main>
